@@ -1,4 +1,4 @@
-
+![logo](https://github.com/vanshika-bhargava/vanshika-bhargava/blob/main/github%20banner.jpg)
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vanshika!
 
 <h3 align="center">An Open-Source Enthusiast<br>&<br>

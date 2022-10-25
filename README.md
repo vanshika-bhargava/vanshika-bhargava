@@ -28,13 +28,3 @@ as I strongly believe in Discover, Ideate, Design and Define.
 
   
 
-<h2>GitHub Stats:</h2>
-<p align="center">
-  <a href="https://github.com/vanshika-bhargava">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-bhargava&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
-  </a>
-
-  <a href="https://github.com/vanshika-bhargava">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vanshika-bhargava&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sahil Mor's GitHub Stats" />
-  </a>
-</p>

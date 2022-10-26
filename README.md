@@ -7,7 +7,7 @@ An Aspiring Software Developer</h3>
 <h2>About Me 🚀</h2>
 <img align="right" alt="coding" width="400" src="https://github.com/vanshika-bhargava/vanshika-bhargava/blob/main/github%20vanshika.gif">
 🎓 I’m an undergrad student, pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am currently learning Data Structures & Algorithms </br>
+👨‍💻  I am currently learning Data Structures & Algorithms </br> <br>
 <p align="left">- I'm a problem solver enthusiast having an edge to create production code and participate in the design process
 as I strongly believe in Discover, Ideate, Design and Define.
 

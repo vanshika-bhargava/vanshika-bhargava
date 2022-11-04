@@ -1,8 +1,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vanshika!
 
-<h3 align="center">An Open-Source Enthusiast<br>&<br>
-An Aspiring Software Developer</h3>
+<h3 align="center">An Open-Source Enthusiast & An Aspiring Software Developer</h3>
 
 <h2>About Me 🚀</h2>
 <img align="right" alt="coding" width="400" src="https://github.com/vanshika-bhargava/vanshika-bhargava/blob/main/github%20vanshika.gif">
